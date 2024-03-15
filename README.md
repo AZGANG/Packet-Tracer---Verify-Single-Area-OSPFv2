@@ -15,9 +15,8 @@ You are the network administrator for a branch office of a larger organization. 
 
 ![image](https://github.com/AZGANG/Packet-Tracer---Verify-Single-Area-OSPFv2/assets/128199477/3002c914-e668-431e-bf3a-e56cb20b2e6f)
 ![Screenshot (159)](https://github.com/AZGANG/Packet-Tracer---Verify-Single-Area-OSPFv2/assets/128199477/8d0d794e-e849-44b3-b914-b0629b5a10e2)
-![Screenshot (160)](https://github.com/AZGANG/Pac![Screenshot (162)](https://github.com/AZGANG/Packet-Tracer---Verify-Single-Area-OSPFv2/assets/128199477/d0dba8b1-40ae-405a-aafa-03e59ff91860)
+![Screenshot (162)](https://github.com/AZGANG/Packet-Tracer---Verify-Single-Area-OSPFv2/assets/128199477/d0dba8b1-40ae-405a-aafa-03e59ff91860)
 ke![Screenshot (161)](https://github.com/AZGANG/Packet-Tracer---Verify-Single-Area-OSPFv2/assets/128199477/168a70a5-1a61-4f50-8eff-eb076165aa69)
-t-Tracer---Verify-Single-Area-OSPFv2/assets/128199477/a55bfa1e-de35-4a58-884e-8729256a235a)
 ![Screenshot (163)](https://github.com/AZGANG/Packet-Tracer---Verify-Single-Area-OSPFv2/assets/128199477/75585f54-2ac4-4185-8548-87e2123a72ad)
 ![Screenshot (164)](https://github.com/AZGANG/Packet-Tracer---Verify-Single-Area-OSPFv2/assets/128199477/e67fa805-d682-4ecb-9575-414bd26fa874)
 ![Screenshot (165)](https://github.com/AZGANG/Packet-Tracer---Verify-Single-Area-OSPFv2/assets/128199477/c5291a41-f1bb-4cbe-8186-6fcc2954c58d)
